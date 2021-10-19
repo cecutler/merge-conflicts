@@ -2,8 +2,20 @@
 
 # Education
 - skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+  description: Developed and administered online and in-person training covering various topics for academia and business.
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Documentation
+- skill: Documentation
+  description: Developed and created documentation ranging from UML or architectural diagrams to user manuals and onboarding documentation.
+  
+# Mentoring
+- skill: Mentoring
+  description: Mentored students in various STEM programs, provided on the job mentoring for other professionals, providing referrals, learning paths, encouragment, and feedback on skill acquisition.
+  
+# Statistics
+- skill: Statistical Modeling
+  description: Provided models for tracking process compliance using a combination of Hidden Markov models and Optimal Subsequence Bijection.
+
+# Algorithms
+- skill: Algorithms
+  description: Provided implementation of Damerau-Levenshtein with internal dictionary to help automate the validation process during B2B data exchange.
