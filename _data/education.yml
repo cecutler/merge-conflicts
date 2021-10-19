@@ -1,6 +1,21 @@
 # Degree
-- degree: BS  
-  uni: University of way too expensive
-  year: January 2001 - April 2005
-  # awards:
-  # summary: That degree was way too expensive for what I got out of it.
+- degree: BA  
+  uni: University of New Mexico
+  year: April 2005
+  extracurriculars: Golden Key Society, Progressive Student Union
+  summary: English
+  
+  - degree: MFA
+  uni: University of New Mexico
+  year: July 2011
+  summary: Nonfiction and Poetry
+  
+  - degree: MA
+  uni: University of New Mexico
+  year: unfinished (all but thesis)
+  summary: Sociology
+  
+  - degree: BS
+  uni: University of New Mexico
+  year: unfinished (sophmore rank)
+  summary: Computer Science
