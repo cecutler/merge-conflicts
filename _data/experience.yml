@@ -1,19 +1,25 @@
 # Jobs
 
-# Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
+# Middleware Developer
+- company: NuCO2
+  position: Middleware Developer
+  duration: March, 2021 &mdash; Present
+  summary: Design and develop bespoke middleware for B2B communication using Cosmos, .NET Core, Azure functions, and SQL. Create console applications for nightly Tidal loads. Create documentation, including UML diagrams and architecture. Provide security and user experience consultation, task scoping, traffic scoping, financial estimations, and paperwork and oversight for international approvals processes. Design gamification of existing software.
 
-# Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+# Software Developer
+- company: Automated Election Services
+  position: Software Developer
+  duration: January, 2020 &mdash; March, 2021
+  summary: Create websites, write front ends in Angular and ngrx, write APIs in .NET Core, refactor existing APIs under RESTful principles, create modules for existing packages. Create documenation, including UML diagrams and architectural diagrams. Design and develop Azure function applications.
 
-# Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+# Data Engineer
+- company: Cloverleaf
+  position: Data Engineer
+  duration: April 2018 &mdash; November 2018
+  summary: Monitor and analyze data flows. Clean and validate data. Provide data gathering and statistical modeling. Draft technical documentation, analyze procedural compliance and procedure, and draft changes to procedure. Provide documentation for staff training, perform user acceptance testing. 
+
+# Freelance Software Developer
+- company: Freelance
+position: Software Developer
+duration: April 2014 &mdash; May 2018
+summary: Design and develop software on a contractual basis for a variety of purposes including web pages, financial software (invoicing and payroll), and educational games.
